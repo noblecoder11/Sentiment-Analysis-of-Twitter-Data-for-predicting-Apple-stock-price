@@ -1,4 +1,4 @@
-# Project 2 - Group # 4
+# STC Project- Group # 2
 
 ## Sentiment Analysis of Twitter Data for predicting movement in stock price of Apple Inc. (AAPL)
 
